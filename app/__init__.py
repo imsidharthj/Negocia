@@ -1,0 +1,1 @@
+# Negocia — Omi Integration Backend
